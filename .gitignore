@@ -1,0 +1,26 @@
+# 模型权重文件（太大，不上传）
+models/*.pth
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 训练日志输出
+*.output
+
+# 临时文件
+*.tmp
+*.log
+
+# 虚拟环境
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
